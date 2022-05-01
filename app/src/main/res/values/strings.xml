@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Inno_SampleProject</string>
+    <string name="no_record_found">No Record Found</string>
+    <string name="smthing_wrong">Something went wrong..</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="no_network">Oops! You are disconnected.\n Please check your internet.</string>
+    <string name="pageno">Page No - </string>
+    <string name="okay">okay</string>
+</resources>
